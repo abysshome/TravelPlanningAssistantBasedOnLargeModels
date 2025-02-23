@@ -1,0 +1,27 @@
+在WorkSpace目录下运行
+
+开启get-plan
+cd WorkSpace
+nohup uvicorn get_plan:app --reload --host 0.0.0.0 --port 7781 > plan.log 2>&1 &
+监视get-plan
+tail -f plan.log
+
+
+
+nohup npm run dev
+tail -f nohup.out
+
+
+nohup java -jar /root/backend_1-0.0.1-SNAPSHOT.jar >temp.txt &
+
+
+
+
+net start mysql
+
+cd /d D:\Tasks\ChiikaTravel\chiika-test\docker
+java -jar backend.jar
+
+cd D:\Tasks\ChiikaTravel\chiika-test\docker\WorkSpace
+跑
+Get-Content plan.log -Wait

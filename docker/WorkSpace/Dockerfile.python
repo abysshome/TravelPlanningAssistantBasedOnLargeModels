@@ -1,0 +1,6 @@
+FROM python:3.9.10
+WORKDIR /app
+COPY . .
+RUN pip install -r requirements.txt
+EXPOSE 7780
+CMD ["uvicorn", "get_plan:app", "--reload", "--host", "0.0.0.0", "--port", "7780"]

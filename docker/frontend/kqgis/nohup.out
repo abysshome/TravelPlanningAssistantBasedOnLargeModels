@@ -1,0 +1,109 @@
+
+> vivo@0.0.0 dev
+> vite --host=0.0.0.0
+
+
+  VITE v5.3.5  ready in 379 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://10.2.8.3:5173/
+[1m[33m[@vue/compiler-sfc][0m[33m `defineEmits` is a compiler macro and no longer needs to be imported.[0m
+
+[1m[33m[@vue/compiler-sfc][0m[33m `defineProps` is a compiler macro and no longer needs to be imported.[0m
+
+
+> vivo@0.0.0 dev
+> vite --host=0.0.0.0
+
+
+  VITE v5.3.5  ready in 382 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://10.2.8.3:5173/
+[1m[33m[@vue/compiler-sfc][0m[33m `defineProps` is a compiler macro and no longer needs to be imported.[0m
+
+[1m[33m[@vue/compiler-sfc][0m[33m `defineEmits` is a compiler macro and no longer needs to be imported.[0m
+
+
+> vivo@0.0.0 dev
+> vite --host=0.0.0.0
+
+
+  VITE v5.4.7  ready in 384 ms
+
+  ➜  Local:   http://localhost:4000/
+  ➜  Network: http://10.2.8.3:4000/
+
+> vivo@0.0.0 dev
+> vite --host=0.0.0.0
+
+
+  VITE v5.4.7  ready in 568 ms
+
+  ➜  Local:   http://localhost:4000/
+  ➜  Network: http://10.2.8.3:4000/
+[1m[33m[@vue/compiler-sfc][0m[33m `defineProps` is a compiler macro and no longer needs to be imported.[0m
+
+[1m[33m[@vue/compiler-sfc][0m[33m `defineEmits` is a compiler macro and no longer needs to be imported.[0m
+
+
+> vivo@0.0.0 dev
+> vite --host=0.0.0.0
+
+Port 4000 is in use, trying another one...
+
+  VITE v5.4.7  ready in 393 ms
+
+  ➜  Local:   http://localhost:4001/
+  ➜  Network: http://10.2.8.3:4001/
+
+> vivo@0.0.0 dev
+> vite --host=0.0.0.0
+
+
+  VITE v5.4.7  ready in 638 ms
+
+  ➜  Local:   http://localhost:4000/
+  ➜  Network: http://10.2.8.3:4000/
+[1m[33m[@vue/compiler-sfc][0m[33m `defineProps` is a compiler macro and no longer needs to be imported.[0m
+
+[1m[33m[@vue/compiler-sfc][0m[33m `defineEmits` is a compiler macro and no longer needs to be imported.[0m
+
+
+> vivo@0.0.0 dev
+> vite --host=0.0.0.0
+
+
+  VITE v5.4.7  ready in 398 ms
+
+  ➜  Local:   http://localhost:4000/
+  ➜  Network: http://10.2.8.3:4000/
+[1m[33m[@vue/compiler-sfc][0m[33m `defineProps` is a compiler macro and no longer needs to be imported.[0m
+
+[1m[33m[@vue/compiler-sfc][0m[33m `defineEmits` is a compiler macro and no longer needs to be imported.[0m
+
+(node:4126177) Warning: An error event has already been emitted on the socket. Please use the destroy method on the socket while handling a 'clientError' event.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+> vivo@0.0.0 build
+> vite build
+
+vite v5.4.7 building for production...
+<script src="./SDK/kqwebclient_for_leaflet-20210701/include-leaflet.js"> in "/index.html" can't be bundled without type="module" attribute
+<script src="./SDK/webgisdemo/js/demo_setting.js"> in "/index.html" can't be bundled without type="module" attribute
+<script src="./SDK/kqwebclient_for_leaflet-20210701/kq-release.js"> in "/index.html" can't be bundled without type="module" attribute
+transforming...
+
+> vivo@0.0.0 dev
+> vite --host=0.0.0.0
+
+Port 4000 is in use, trying another one...
+
+  VITE v5.4.7  ready in 408 ms
+
+  ➜  Local:   http://localhost:4001/
+  ➜  Network: http://10.2.8.3:4001/
+[1m[33m[@vue/compiler-sfc][0m[33m `defineProps` is a compiler macro and no longer needs to be imported.[0m
+
+[1m[33m[@vue/compiler-sfc][0m[33m `defineEmits` is a compiler macro and no longer needs to be imported.[0m
+
